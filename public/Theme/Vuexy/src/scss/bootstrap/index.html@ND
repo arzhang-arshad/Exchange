@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Index of /Vuexy/src/scss/bootstrap/</title></head>
+  <body>
+    <h1>Index of /Vuexy/src/scss/bootstrap/</h1><pre><img src="/_autoindex/icons/blank.png" alt="     "> <a href='?NA'>Name</a>                                                                             <a href='?MA'>Last modified</a>         <a href='?SA'>Size</a>  <a href='?DA'>Description </a>
+   <hr><img src="/_autoindex/icons/up.png" alt="up"> <a href="/Vuexy/src/scss/">Parent Directory</a>                                                                 25-Dec-2019 09:33        -       
+<img src="/_autoindex/icons/folder.png" alt="directory"> <a href="/Vuexy/src/scss/bootstrap/vendor/">vendor</a>                                                                           25-Dec-2019 09:33        -       
+<img src="/_autoindex/icons/folder.png" alt="directory"> <a href="/Vuexy/src/scss/bootstrap/utilities/">utilities</a>                                                                        25-Dec-2019 09:33        -       
+<img src="/_autoindex/icons/folder.png" alt="directory"> <a href="/Vuexy/src/scss/bootstrap/mixins/">mixins</a>                                                                           25-Dec-2019 09:33        -       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/bootstrap.scss">bootstrap.scss</a>                                                                   30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/bootstrap-reboot.scss">bootstrap-reboot.scss</a>                                                            30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/bootstrap-grid.scss">bootstrap-grid.scss</a>                                                              30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_variables.scss">_variables.scss</a>                                                                  08-Apr-2019 08:46      44k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_utilities.scss">_utilities.scss</a>                                                                  30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_type.scss">_type.scss</a>                                                                       30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_transitions.scss">_transitions.scss</a>                                                                30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_tooltip.scss">_tooltip.scss</a>                                                                    30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_toasts.scss">_toasts.scss</a>                                                                     30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_tables.scss">_tables.scss</a>                                                                     30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_spinners.scss">_spinners.scss</a>                                                                   30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_root.scss">_root.scss</a>                                                                       07-May-2019 11:45       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_reboot.scss">_reboot.scss</a>                                                                     30-Mar-2019 13:02      12k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_progress.scss">_progress.scss</a>                                                                   30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_print.scss">_print.scss</a>                                                                      30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_popover.scss">_popover.scss</a>                                                                    30-Mar-2019 13:02       8k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_pagination.scss">_pagination.scss</a>                                                                 30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_navbar.scss">_navbar.scss</a>                                                                     30-Mar-2019 13:02       8k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_nav.scss">_nav.scss</a>                                                                        30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_modal.scss">_modal.scss</a>                                                                      30-Mar-2019 13:02       8k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_mixins.scss">_mixins.scss</a>                                                                     30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_media.scss">_media.scss</a>                                                                      30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_list-group.scss">_list-group.scss</a>                                                                 30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_jumbotron.scss">_jumbotron.scss</a>                                                                  30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_input-group.scss">_input-group.scss</a>                                                                30-Mar-2019 13:02       8k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_images.scss">_images.scss</a>                                                                     30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_grid.scss">_grid.scss</a>                                                                       30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_functions.scss">_functions.scss</a>                                                                  30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_forms.scss">_forms.scss</a>                                                                      30-Mar-2019 13:02      12k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_dropdown.scss">_dropdown.scss</a>                                                                   30-Mar-2019 13:02       8k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_custom-forms.scss">_custom-forms.scss</a>                                                               30-Mar-2019 13:02      16k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_code.scss">_code.scss</a>                                                                       30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_close.scss">_close.scss</a>                                                                      30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_carousel.scss">_carousel.scss</a>                                                                   30-Mar-2019 13:02       8k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_card.scss">_card.scss</a>                                                                       30-Mar-2019 13:02       8k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_buttons.scss">_buttons.scss</a>                                                                    30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_button-group.scss">_button-group.scss</a>                                                               30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_breadcrumb.scss">_breadcrumb.scss</a>                                                                 30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_badge.scss">_badge.scss</a>                                                                      30-Mar-2019 13:02       4k       
+<img src="/_autoindex/icons/unknown.png" alt="unknown"> <a href="/Vuexy/src/scss/bootstrap/_alert.scss">_alert.scss</a>                                                                      30-Mar-2019 13:02       4k       
+</pre><hr><address>Proudly Served by LiteSpeed Web Server at demo.nparoco.com Port 443</address>
+</body>
+</html>
